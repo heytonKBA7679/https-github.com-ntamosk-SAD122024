@@ -1,0 +1,4 @@
+git clone https://github.com/heytonKBA7679/SAD122024.git
+cd SAD122024
+  git remote -v
+  
